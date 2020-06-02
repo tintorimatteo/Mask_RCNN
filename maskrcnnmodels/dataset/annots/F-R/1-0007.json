@@ -1,0 +1,932 @@
+{
+  "version": "3.21.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "ball",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          174.42748091603053,
+          116.53435114503816
+        ],
+        [
+          175.95419847328245,
+          119.58778625954199
+        ]
+      ],
+      "shape_type": "circle",
+      "flags": {}
+    },
+    {
+      "label": "player",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          160.68702290076334,
+          172.2595419847328
+        ],
+        [
+          164.50381679389312,
+          174.1679389312977
+        ],
+        [
+          168.70229007633588,
+          177.6030534351145
+        ],
+        [
+          170.99236641221373,
+          185.61832061068702
+        ],
+        [
+          177.8625954198473,
+          188.67175572519082
+        ],
+        [
+          177.8625954198473,
+          193.25190839694656
+        ],
+        [
+          169.08396946564883,
+          189.81679389312976
+        ],
+        [
+          167.17557251908397,
+          197.83206106870227
+        ],
+        [
+          160.68702290076334,
+          198.59541984732823
+        ],
+        [
+          159.16030534351145,
+          194.01526717557252
+        ],
+        [
+          160.3053435114504,
+          187.14503816793894
+        ],
+        [
+          159.16030534351145,
+          184.0916030534351
+        ],
+        [
+          161.4503816793893,
+          181.41984732824426
+        ],
+        [
+          159.9236641221374,
+          177.6030534351145
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "player",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          287.0229007633588,
+          108.90076335877862
+        ],
+        [
+          289.3129770992366,
+          111.57251908396947
+        ],
+        [
+          290.45801526717554,
+          116.91603053435114
+        ],
+        [
+          290.45801526717554,
+          126.83969465648855
+        ],
+        [
+          287.0229007633588,
+          125.69465648854961
+        ],
+        [
+          283.587786259542,
+          127.22137404580153
+        ],
+        [
+          283.206106870229,
+          120.73282442748092
+        ],
+        [
+          283.587786259542,
+          112.71755725190839
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "player",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          96.56488549618321,
+          137.5267175572519
+        ],
+        [
+          99.23664122137404,
+          141.34351145038167
+        ],
+        [
+          102.29007633587786,
+          144.77862595419847
+        ],
+        [
+          101.14503816793892,
+          149.3587786259542
+        ],
+        [
+          105.72519083969465,
+          156.61068702290075
+        ],
+        [
+          98.09160305343511,
+          160.42748091603053
+        ],
+        [
+          92.74809160305342,
+          154.3206106870229
+        ],
+        [
+          93.1297709923664,
+          146.68702290076334
+        ],
+        [
+          91.6030534351145,
+          143.63358778625954
+        ],
+        [
+          93.89312977099236,
+          140.5801526717557
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "player",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          16.030534351145036,
+          125.69465648854961
+        ],
+        [
+          17.557251908396946,
+          131.41984732824426
+        ],
+        [
+          17.557251908396946,
+          136.0
+        ],
+        [
+          18.702290076335878,
+          142.10687022900763
+        ],
+        [
+          11.83206106870229,
+          144.3969465648855
+        ],
+        [
+          12.595419847328245,
+          137.5267175572519
+        ],
+        [
+          7.251908396946565,
+          136.0
+        ],
+        [
+          9.541984732824426,
+          129.89312977099237
+        ],
+        [
+          11.83206106870229,
+          128.36641221374046
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "player",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          210.30534351145036,
+          123.02290076335876
+        ],
+        [
+          212.9770992366412,
+          124.93129770992365
+        ],
+        [
+          216.41221374045801,
+          128.36641221374046
+        ],
+        [
+          214.8854961832061,
+          133.70992366412213
+        ],
+        [
+          217.93893129770993,
+          139.0534351145038
+        ],
+        [
+          216.03053435114504,
+          145.54198473282443
+        ],
+        [
+          208.3969465648855,
+          144.01526717557252
+        ],
+        [
+          208.3969465648855,
+          136.76335877862596
+        ],
+        [
+          206.4885496183206,
+          128.74809160305344
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "player",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          221.75572519083968,
+          124.54961832061068
+        ],
+        [
+          225.95419847328245,
+          129.12977099236642
+        ],
+        [
+          225.57251908396947,
+          135.23664122137404
+        ],
+        [
+          224.8091603053435,
+          143.25190839694656
+        ],
+        [
+          217.17557251908397,
+          145.54198473282443
+        ],
+        [
+          218.70229007633586,
+          128.74809160305344
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "player",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          54.9618320610687,
+          104.32061068702289
+        ],
+        [
+          56.87022900763358,
+          110.04580152671755
+        ],
+        [
+          56.87022900763358,
+          113.48091603053435
+        ],
+        [
+          57.63358778625954,
+          118.82442748091603
+        ],
+        [
+          56.10687022900763,
+          123.40458015267174
+        ],
+        [
+          50.0,
+          121.87786259541986
+        ],
+        [
+          51.908396946564885,
+          116.91603053435114
+        ],
+        [
+          50.0,
+          115.00763358778624
+        ],
+        [
+          51.14503816793893,
+          112.71755725190839
+        ],
+        [
+          51.14503816793893,
+          108.90076335877862
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "player",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          248.85496183206106,
+          101.64885496183206
+        ],
+        [
+          253.0534351145038,
+          104.70229007633587
+        ],
+        [
+          253.43511450381678,
+          111.19083969465649
+        ],
+        [
+          254.19847328244273,
+          121.87786259541986
+        ],
+        [
+          246.5648854961832,
+          120.73282442748092
+        ],
+        [
+          246.94656488549617,
+          113.86259541984732
+        ],
+        [
+          245.03816793893128,
+          111.57251908396947
+        ],
+        [
+          246.5648854961832,
+          105.8473282442748
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "player",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          72.90076335877862,
+          90.58015267175573
+        ],
+        [
+          75.19083969465649,
+          94.3969465648855
+        ],
+        [
+          74.80916030534351,
+          99.35877862595419
+        ],
+        [
+          75.19083969465649,
+          103.93893129770991
+        ],
+        [
+          68.70229007633587,
+          105.46564885496183
+        ],
+        [
+          69.46564885496183,
+          100.12213740458014
+        ],
+        [
+          66.79389312977099,
+          99.74045801526717
+        ],
+        [
+          69.46564885496183,
+          93.63358778625954
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "player",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          270.6106870229008,
+          92.4885496183206
+        ],
+        [
+          273.66412213740455,
+          96.68702290076335
+        ],
+        [
+          273.66412213740455,
+          110.80916030534351
+        ],
+        [
+          266.412213740458,
+          108.13740458015266
+        ],
+        [
+          263.3587786259542,
+          102.79389312977099
+        ],
+        [
+          266.412213740458,
+          101.64885496183206
+        ],
+        [
+          265.2671755725191,
+          99.35877862595419
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "player",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          158.3969465648855,
+          101.64885496183206
+        ],
+        [
+          161.06870229007632,
+          105.08396946564885
+        ],
+        [
+          162.21374045801525,
+          107.37404580152672
+        ],
+        [
+          161.83206106870227,
+          110.80916030534351
+        ],
+        [
+          163.74045801526717,
+          115.00763358778624
+        ],
+        [
+          159.16030534351145,
+          117.29770992366412
+        ],
+        [
+          152.29007633587787,
+          110.04580152671755
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "player",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          122.90076335877862,
+          82.18320610687023
+        ],
+        [
+          126.71755725190839,
+          85.23664122137404
+        ],
+        [
+          125.57251908396947,
+          88.29007633587786
+        ],
+        [
+          125.19083969465649,
+          92.4885496183206
+        ],
+        [
+          122.90076335877862,
+          99.35877862595419
+        ],
+        [
+          117.93893129770991,
+          97.45038167938931
+        ],
+        [
+          118.70229007633587,
+          90.9618320610687
+        ],
+        [
+          118.70229007633587,
+          84.85496183206106
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "player",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          93.89312977099236,
+          76.83969465648855
+        ],
+        [
+          98.85496183206106,
+          78.74809160305342
+        ],
+        [
+          96.56488549618321,
+          81.80152671755725
+        ],
+        [
+          95.80152671755725,
+          88.67175572519083
+        ],
+        [
+          88.93129770992365,
+          88.29007633587786
+        ],
+        [
+          91.6030534351145,
+          84.47328244274809
+        ],
+        [
+          91.6030534351145,
+          82.18320610687023
+        ],
+        [
+          87.78625954198473,
+          79.89312977099236
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "player",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          208.77862595419847,
+          86.38167938931298
+        ],
+        [
+          212.9770992366412,
+          89.43511450381679
+        ],
+        [
+          213.3587786259542,
+          94.01526717557252
+        ],
+        [
+          216.03053435114504,
+          99.74045801526717
+        ],
+        [
+          204.5801526717557,
+          98.97709923664122
+        ],
+        [
+          206.4885496183206,
+          93.25190839694656
+        ],
+        [
+          205.72519083969465,
+          90.19847328244275
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "player",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          212.59541984732823,
+          76.45801526717557
+        ],
+        [
+          217.55725190839695,
+          79.51145038167938
+        ],
+        [
+          217.55725190839695,
+          84.09160305343511
+        ],
+        [
+          219.8473282442748,
+          89.43511450381679
+        ],
+        [
+          211.83206106870227,
+          89.05343511450381
+        ],
+        [
+          209.16030534351145,
+          81.0381679389313
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "player",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          192.74809160305344,
+          97.83206106870229
+        ],
+        [
+          197.70992366412213,
+          102.79389312977099
+        ],
+        [
+          198.0916030534351,
+          107.37404580152672
+        ],
+        [
+          201.14503816793894,
+          115.38931297709922
+        ],
+        [
+          190.0763358778626,
+          112.71755725190839
+        ],
+        [
+          190.0763358778626,
+          106.22900763358778
+        ],
+        [
+          186.64122137404578,
+          103.55725190839694
+        ],
+        [
+          190.0763358778626,
+          100.8854961832061
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "player",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          186.2595419847328,
+          86.38167938931298
+        ],
+        [
+          189.6946564885496,
+          90.19847328244275
+        ],
+        [
+          192.74809160305344,
+          96.68702290076335
+        ],
+        [
+          189.6946564885496,
+          102.03053435114504
+        ],
+        [
+          183.58778625954199,
+          97.06870229007633
+        ],
+        [
+          182.06106870229007,
+          92.87022900763358
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "player",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          190.83969465648855,
+          76.45801526717557
+        ],
+        [
+          193.89312977099235,
+          78.36641221374046
+        ],
+        [
+          193.89312977099235,
+          83.70992366412213
+        ],
+        [
+          193.12977099236642,
+          86.76335877862596
+        ],
+        [
+          188.54961832061068,
+          85.23664122137404
+        ],
+        [
+          187.78625954198472,
+          80.65648854961832
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "player",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          185.1145038167939,
+          111.19083969465649
+        ],
+        [
+          190.45801526717557,
+          113.48091603053435
+        ],
+        [
+          194.6564885496183,
+          120.73282442748092
+        ],
+        [
+          193.12977099236642,
+          121.87786259541986
+        ],
+        [
+          197.70992366412213,
+          128.74809160305344
+        ],
+        [
+          193.12977099236642,
+          128.74809160305344
+        ],
+        [
+          190.83969465648855,
+          127.6030534351145
+        ],
+        [
+          192.36641221374046,
+          130.27480916030532
+        ],
+        [
+          189.6946564885496,
+          130.27480916030532
+        ],
+        [
+          183.206106870229,
+          124.93129770992365
+        ],
+        [
+          183.96946564885496,
+          121.87786259541986
+        ],
+        [
+          182.82442748091603,
+          117.6793893129771
+        ],
+        [
+          184.35114503816794,
+          116.15267175572518
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "player",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          178.62595419847327,
+          103.93893129770991
+        ],
+        [
+          182.06106870229007,
+          106.22900763358778
+        ],
+        [
+          184.73282442748092,
+          111.57251908396947
+        ],
+        [
+          182.82442748091603,
+          115.7709923664122
+        ],
+        [
+          185.49618320610685,
+          120.73282442748092
+        ],
+        [
+          177.48091603053433,
+          117.6793893129771
+        ],
+        [
+          175.57251908396947,
+          113.86259541984732
+        ],
+        [
+          176.33587786259542,
+          108.90076335877862
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "player",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          124.42748091603053,
+          91.34351145038167
+        ],
+        [
+          129.00763358778624,
+          96.30534351145037
+        ],
+        [
+          127.86259541984732,
+          98.59541984732824
+        ],
+        [
+          129.7709923664122,
+          103.55725190839694
+        ],
+        [
+          126.71755725190839,
+          105.08396946564885
+        ],
+        [
+          125.19083969465649,
+          101.64885496183206
+        ],
+        [
+          122.90076335877862,
+          105.8473282442748
+        ],
+        [
+          119.46564885496183,
+          105.08396946564885
+        ],
+        [
+          120.99236641221374,
+          100.8854961832061
+        ],
+        [
+          119.08396946564885,
+          97.45038167938931
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    255,
+    85,
+    0,
+    128
+  ],
+  "fillColor": [
+    85,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "..\\..\\images\\Fiorentina-Roma\\1-0007.jpg",
+  "imageData": "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",
+  "imageHeight": 224,
+  "imageWidth": 398
+}

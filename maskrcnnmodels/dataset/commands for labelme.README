@@ -1,0 +1,3 @@
+labelme images/Chievo-Napoli --output annots/Chievo-Napoli --autosave 
+--labels labels.txt
+
